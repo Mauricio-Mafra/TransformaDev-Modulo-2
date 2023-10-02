@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 //    Pessoa
 //    Livro
 
-namespace ConsoleApp1
+namespace Exercicio2
 {
     internal class Emprestimo
     {
