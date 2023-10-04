@@ -1,5 +1,4 @@
-﻿using ConsoleApp1;
-using System;
+﻿using System;
 
 //Faça um programa para controle de empréstimo de livros, com as classes Emprestimo, Livro e Pessoa. Faça uma classe de teste implementando a criação de 2 Pessoas, 5 livros e 4 emprestimos.
 
